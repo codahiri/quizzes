@@ -1,1 +1,1 @@
-# quizzes
+# JavaScript quizzes
